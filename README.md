@@ -82,6 +82,7 @@ Architecture of the files in the repo :
   * `word_Embeddings`:  contains the word embedding for fastText & glove. You can download FastText and pre_trained_glove_embedding directories [here](https://drive.google.com/drive/folders/1ZAduIqmeDOEpySYyiDZsKb2RPIUDhtsD)  
   - `data_submission_preprocessed.csv`: the data for the submission, already pre processed. This csv will be used to make all the AI-crowd submissions.
 
+
 Please do not change name of directories/files, otherwise you will not be able to execute the notebooks.
 
 
