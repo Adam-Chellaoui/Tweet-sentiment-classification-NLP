@@ -1,5 +1,6 @@
 # ML Competition Project : Text Sentiment Classification
 
+
 ## Abstract
 
 This paper details our approachto address the « EPFL ML Text ClassificationChallenge », where the aim is to classify wether a tweet message used to contain a positive ’:)’or negative ’:(’ smiley. Different approach were used : preprocessing, various word representations, classical machine learning models, neural network architectures, and transformers architecture.
